@@ -1,3 +1,4 @@
-import UIKit
+import Leetcode_Sources
 
-var greeting = "Hello, playground"
+var solution: Solution = .init()
+print(solution.mergeTwoLists(nil, nil))
